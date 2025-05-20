@@ -1,4 +1,4 @@
-# 🔐 HTBStart – Hack The Box VPN + SSH Automation Script
+# HTBStart – Hack The Box VPN + SSH Automation Script
 
 A powerful Bash script to automate your Hack The Box (HTB) workflow — connects to the HTB Academy VPN and directly SSHs into the target machine in seconds with a single command: `htbstart`.
 
@@ -15,7 +15,7 @@ A powerful Bash script to automate your Hack The Box (HTB) workflow — connects
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure (Between this is my folder structure
 
 ```bash
 Hackerstuff/
@@ -25,6 +25,7 @@ Hackerstuff/
     └── htb_log.txt              # Connection history log (auto-created)
 ```
 
+#### Suggestion: Instead of making that htbstart , command in separate file make that in your home directory , so you'can access it anytime anywhere
 ---
 
 ## 🛠️ Setup
