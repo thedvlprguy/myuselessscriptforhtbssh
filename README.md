@@ -25,7 +25,7 @@ Hackerstuff/
     └── htb_log.txt              # Connection history log (auto-created)
 ```
 
-#### Suggestion: Instead of making that htbstart , command in separate file make that in your home directory , so you'can access it anytime anywhere
+#### Suggestion: Instead of making that htbstart command in separate directory,  make that in your home directory , so you'can access it anytime anywhere
 ---
 
 ## 🛠️ Setup
